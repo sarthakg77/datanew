@@ -1,0 +1,5 @@
+seaborn
+matplotlib
+openai
+streamlit
+pandas
